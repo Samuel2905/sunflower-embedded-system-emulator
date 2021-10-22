@@ -61,3 +61,66 @@ Node0		"TIME"	=	6.640000E-05
 Node0		"dyncnt"	=	3559
 } Tag Exit.
 } Tag Exit.
+
+
+Tag Exit{
+Random seed used = [-2136735748]
+
+
+Tag Exit{
+Node0		User Time elapsed = 0.000464 seconds.
+Node0		Instruction Simulation Rate = 8584051.72 Cycles/Second.
+Node0		"machinetype"	=	0
+Node0		"Cycletrans"	=	0
+Node0		"CYCLETIME"	=	1.666667E-08
+Node0		NTRANS	=	0
+Node0		CPU-only ETOT	=	0.000000E+00 Joules
+Node0		CPU-only AVG POWER	=	0.000000E+00 Watts
+Node0		"ICLK"	=	3984
+Node0		"CLK"	=	3984
+Node0		"TIME"	=	6.640000E-05
+Node0		"dyncnt"	=	3559
+} Tag Exit.
+} Tag Exit.
+
+
+Tag Exit{
+Random seed used = [-317940347]
+
+
+Tag Exit{
+Node0		User Time elapsed = 0.001721 seconds.
+Node0		Instruction Simulation Rate = 2314352.12 Cycles/Second.
+Node0		"machinetype"	=	0
+Node0		"Cycletrans"	=	0
+Node0		"CYCLETIME"	=	1.666667E-08
+Node0		NTRANS	=	0
+Node0		CPU-only ETOT	=	0.000000E+00 Joules
+Node0		CPU-only AVG POWER	=	0.000000E+00 Watts
+Node0		"ICLK"	=	3984
+Node0		"CLK"	=	3984
+Node0		"TIME"	=	6.640000E-05
+Node0		"dyncnt"	=	3559
+} Tag Exit.
+} Tag Exit.
+
+
+Tag Exit{
+Random seed used = [-1741271737]
+
+
+Tag Exit{
+Node0		User Time elapsed = 0.000652 seconds.
+Node0		Instruction Simulation Rate = 6108895.71 Cycles/Second.
+Node0		"machinetype"	=	0
+Node0		"Cycletrans"	=	0
+Node0		"CYCLETIME"	=	1.666667E-08
+Node0		NTRANS	=	0
+Node0		CPU-only ETOT	=	0.000000E+00 Joules
+Node0		CPU-only AVG POWER	=	0.000000E+00 Watts
+Node0		"ICLK"	=	3984
+Node0		"CLK"	=	3984
+Node0		"TIME"	=	6.640000E-05
+Node0		"dyncnt"	=	3559
+} Tag Exit.
+} Tag Exit.
